@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cipherX2
-- 👀 I’m interested in trying to make and break things xD!
-- 🌱 I’m currently learning Data Structures and some networking concepts.
+<!-- - 👀 I’m interested in trying to make and break things xD!
+- 🌱 I’m currently learning Data Structures and some networking concepts. -->
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
